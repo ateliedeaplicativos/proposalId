@@ -1,10 +1,22 @@
 {
-    "proposalBorrowers": {
+  "User": {
+
     "statusMessage": {
       "string": [
         "working from home",
         "watching Netflix"
       ]
-    }      
+    },
+	
+    "age": {
+      "int": {
+        "min": 21,
+        "max": 100
+      }
+    },
+	
+    "isPublic": {
+      "boolean": {}
     }
+  }
 }
