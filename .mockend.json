@@ -1,21 +1,21 @@
 {
   "User": {
 
-    "Nome": {
+    "name": {
       "string": [
         "Vinícius",
         "Rafael"
       ]
     },
 	
-    "age": {
-      "int": {
-        "min": 1000,
-        "max": 15000
-      }
+    "value": {
+      "int": [
+        1000,
+        15000
+      ]
     },
 	
-    "isPublic": {
+    "birthDate": {
       "string": [
         "22/12/1986",
         "13/06/1984"
