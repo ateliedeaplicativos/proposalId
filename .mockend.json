@@ -1,25 +1,7 @@
 {
   "User": {
-
-    "name": {
-      "string": [
-        "Vinícius",
-        "Rafael"
-      ]
-    },
-	
-    "value": {
-      "int": [
-        1000,
-        15000
-      ]
-    },
-	
-    "birthDate": {
-      "string": [
-        "22/12/1986",
-        "13/06/1984"
-      ]
+    "title": {
+      "string": {}
     }
   }
 }
