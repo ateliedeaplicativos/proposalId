@@ -1,0 +1,39 @@
+{
+  "proposalId": 45040649,
+  "cooperativeCode": "0718",
+  "branchCode": "15",
+  "firstDueDate": "2022-02-20",
+  "nextDueDate": "2022-02-20",
+  "lastDueDate": "2022-02-20",
+  "releaseStatus": "LIBERADO",
+  "releaseDate": "2022-02-20",
+  "requestedAmount": 15000,
+  "remainingAmount": 0,
+  "interestRate": 1.59,
+  "proposalType": "COMERCIAL",
+  "productType": "OUTROS",
+  "proposalBorrowers": [
+    {
+      "taxId": "69518551000148",
+      "account": "000019",
+      "name": "Joao da Silva",
+      "customerType": "PJ",
+      "commitment": 40,
+      "birthDate": "1985-05-22"
+    },
+    {
+      "taxId": "69518551000148",
+      "account": "000019",
+      "name": "Joao da Silva",
+      "customerType": "PJ",
+      "commitment": 40,
+      "shareholders": [
+        {
+          "cpf": "77981866030",
+          "name": "João da Silva",
+          "birthDate": "1978-08-17"
+        }
+      ]
+    }
+  ]
+}
