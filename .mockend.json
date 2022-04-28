@@ -1,35 +1,7 @@
-{"User": {
-    {
-      "taxId": "69518551000148",
-      "account": "000019",
-      "name": "Joao da Silva",
-      "customerType": "PJ",
-      "commitment": 40,
-      "birthDate": "1985-05-22"
-    },
-    {
-      "taxId": "69518551000148",
-      "account": "000019",
-      "name": "Joao da Silva",
-      "customerType": "PJ",
-      "commitment": 40,
-      "birthDate": "1985-05-22"
-    },
-    {
-      "taxId": "69518551000148",
-      "account": "000019",
-      "name": "Joao da Silva",
-      "customerType": "PJ",
-      "commitment": 40,
-      "birthDate": "1985-05-22"
-    },
-    {
-      "taxId": "69518551000148",
-      "account": "000019",
-      "name": "Joao da Silva",
-      "customerType": "PJ",
-      "commitment": 40,
-      "birthDate": "1985-05-22"
+{
+    "proposalBorrowers": {
+        "name": {"vini","vini","vini","vini"},
+        "data": {"22/12/86","22/12/86","22/12/86","22/12/86"},
+        "valor":{"R$ 300","R$ 300","R$ 300","R$ 300"}        
     }
-}
 }
