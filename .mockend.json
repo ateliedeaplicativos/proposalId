@@ -1,17 +1,5 @@
 {
   "{": {
-    "\"proposalId\":45040649,": {},
-    "\"cooperativeCode\":\"0718\",": {},
-    "\"branchCode\":\"15\",": {},
-    "\"firstDueDate\":\"2022-02-20\",": {},
-    "\"nextDueDate\":\"2022-02-20\",": {},
-    "\"lastDueDate\":\"2022-02-20\",": {},
-    "\"releaseStatus\":\"LIBERADO\",": {},
-    "\"releaseDate\":\"2022-02-20\",": {},
-    "\"requestedAmount\":15000,": {},
-    "\"remainingAmount\":0,": {},
-    "\"proposalType\":\"COMERCIAL\",": {},
-    "\"productType\":\"OUTROS\",": {},
     "\"proposalBorrowers\":": {
       "{": {
         "\"taxId\":\"69518551000148\",": {},
@@ -35,6 +23,5 @@
     },
     "": {}
   },
-  "\"interestRate\":1.59,": {},
   "}": {}
 }
