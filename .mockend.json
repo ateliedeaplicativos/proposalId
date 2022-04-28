@@ -1,7 +1,10 @@
 {
     "proposalBorrowers": {
-        "name": {vini,vini,vini,vini},
-        "data": {22/12/86,22/12/86,22/12/86,22/12/86},
-        "valor":{R$ 300,R$ 300,R$ 300,R$ 300}        
+    "statusMessage": {
+      "string": [
+        "working from home",
+        "watching Netflix"
+      ]
+    }      
     }
 }
