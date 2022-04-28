@@ -1,22 +1,25 @@
 {
-  "proposalId": {
+  "User": {
 
-    "statusMessage": {
+    "Nome": {
       "string": [
-        "working from home",
-        "watching Netflix"
+        "Vinícius",
+        "Rafael"
       ]
     },
 	
     "age": {
       "int": {
-        "min": 21,
-        "max": 100
+        "min": 1000,
+        "max": 15000
       }
     },
 	
     "isPublic": {
-      "boolean": {}
+      "string": [
+        "22/12/1986",
+        "13/06/1984"
+      ]
     }
   }
 }
